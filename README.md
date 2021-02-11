@@ -1,2 +1,3 @@
 # Articles
-Some markdown files
+Things I find helpful will end up here.  
+
